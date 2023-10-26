@@ -2,7 +2,7 @@
 using Banking.Domain;
 
 namespace Banking.Tests;
-public class MakingWithdrawals
+public class MakingWithdrawls
 {
     [Theory]
     [InlineData(123.23)]
